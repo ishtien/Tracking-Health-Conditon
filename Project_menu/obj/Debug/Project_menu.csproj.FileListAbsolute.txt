@@ -1,0 +1,39 @@
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\bin\Debug\Project_menu.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\bin\Debug\Project_menu.exe
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\bin\Debug\Project_menu.pdb
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\obj\Debug\Project_menu.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\obj\Debug\Project_menu.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\obj\Debug\Project_menu.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\obj\Debug\Project_menu.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\obj\Debug\Project_menu.exe
+c:\users\user\documents\visual studio 2015\Projects\Project_menu\Project_menu\obj\Debug\Project_menu.pdb
+C:\Users\user\Desktop\Project_menu\Project_menu\bin\Debug\Project_menu.exe.config
+C:\Users\user\Desktop\Project_menu\Project_menu\obj\Debug\Project_menu.exe
+C:\Users\user\Desktop\Project_menu\Project_menu\obj\Debug\Project_menu.pdb
+C:\Users\user\Desktop\Project_menu\Project_menu\obj\Debug\Project_menu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Project_menu\Project_menu\obj\Debug\Project_menu.Form1.resources
+C:\Users\user\Desktop\Project_menu\Project_menu\obj\Debug\Project_menu.Properties.Resources.resources
+C:\Users\user\Desktop\Project_menu\Project_menu\obj\Debug\Project_menu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Project_menu\Project_menu\bin\Debug\Project_menu.exe
+C:\Users\user\Desktop\Project_menu\Project_menu\bin\Debug\Project_menu.pdb
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\bin\Debug\Project_menu.exe.config
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\obj\Debug\Project_menu.exe
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\obj\Debug\Project_menu.pdb
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\obj\Debug\Project_menu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\obj\Debug\Project_menu.Form1.resources
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\obj\Debug\Project_menu.Properties.Resources.resources
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\obj\Debug\Project_menu.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\bin\Debug\Project_menu.exe
+C:\Users\user\Desktop\Project_menu - 複製\Project_menu\bin\Debug\Project_menu.pdb
+D:\視窗程式\Project_menu_reop\Project_menu\bin\Debug\Project_menu.exe.config
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.exe
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.pdb
+D:\視窗程式\Project_menu_reop\Project_menu\bin\Debug\Project_menu.exe
+D:\視窗程式\Project_menu_reop\Project_menu\bin\Debug\Project_menu.pdb
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.csprojResolveAssemblyReference.cache
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.Form1.resources
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.Properties.Resources.resources
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.csproj.GenerateResource.Cache
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.Form2.resources
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.Form3.resources
+D:\視窗程式\Project_menu_reop\Project_menu\obj\Debug\Project_menu.Form4.resources
